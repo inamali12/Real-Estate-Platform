@@ -17,4 +17,4 @@ const HomePage = ({ heroImage, heroTitle, heroSubtitle, listings, testimonials }
   </div>
 );
 
-export default HomePage;
+export default HomePage;//Abdul Ghafar 
